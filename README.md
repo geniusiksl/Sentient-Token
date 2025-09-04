@@ -1,1 +1,1 @@
-#AI analitic platform with dobby 70b
+# AI analitic platform with dobby 70b
